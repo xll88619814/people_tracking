@@ -1,0 +1,7 @@
+model_data
+*.avi
+*.jpg
+*.png
+*.weights
+*.cfg
+*.py[co~]
